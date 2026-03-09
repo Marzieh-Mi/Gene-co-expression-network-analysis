@@ -1,3 +1,6 @@
 # Gene-co-expression-network-analysis
 
-WGCNA (R)
+R (WGCNA)
+
+# Related Repositorie: Downstream functional analysis (GO, promoter, miRNA)
+Downstream functional analysis
