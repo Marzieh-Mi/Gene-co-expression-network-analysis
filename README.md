@@ -1,5 +1,5 @@
 # Gene-co-expression-network-analysis
-This repository includes scripts and workflows for analyzing the gene co-expression networks.
+This repository includes workflows for analyzing the gene co-expression networks.
 
 ## 1. Analytical Architecture:
 # Network Construction: 
