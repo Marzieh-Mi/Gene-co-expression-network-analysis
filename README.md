@@ -30,6 +30,7 @@ Langfelder, P., & Horvath, S. (2008). WGCNA: an R package for weighted correlati
 ## 5. Related Repositories
 - Downstream-functional-analysis (GO, promoter, miRNA)
 
+```mermaid
 graph TD
     A[Cleaned Expression Data] --> B[Pick Soft-Thresholding Power]
     B --> C[Calculate Adjacency & TOM]
